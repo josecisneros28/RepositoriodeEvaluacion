@@ -1,0 +1,3 @@
+Unos de los primeros ejercicios fue contar los numeros del 1 al 10
+Tambien era del 1 al 100 
+Tambien era poner dia, el sueldo, nombre y true
